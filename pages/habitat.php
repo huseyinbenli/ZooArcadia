@@ -35,30 +35,6 @@
                 </p>
         </section>
 
-        <?php
-require_once "../db_Connection.php";
-
-$query1 = "SELECT * FROM habitat WHERE habitat_id = 6; ";
-$stmt1 = $pdo->prepare($query1);
-$stmt1->execute();
-$rainforest = $stmt1->fetch(PDO::FETCH_ASSOC);
-
-$query2 = "SELECT * FROM habitat WHERE habitat_id = 7; ";
-$stmt2 = $pdo->prepare($query2);
-$stmt2->execute();
-$africain = $stmt2->fetch(PDO::FETCH_ASSOC);
-
-$query3 = "SELECT * FROM habitat WHERE habitat_id = 8; ";
-$stmt3 = $pdo->prepare($query3);
-$stmt3->execute();
-$australien = $stmt3->fetch(PDO::FETCH_ASSOC);
-
-$query4 = "SELECT * FROM habitat WHERE habitat_id = 9; ";
-$stmt4 = $pdo->prepare($query4);
-$stmt4->execute();
-$reptiles = $stmt4->fetch(PDO::FETCH_ASSOC);
-?>
-
         <section class="section africain">
             <div class="wrapper-div">
                 <img src="../Animal Images/africa.jpg" alt="">
@@ -95,6 +71,29 @@ $reptiles = $stmt4->fetch(PDO::FETCH_ASSOC);
     <?php require_once('../shared/footer.php'); ?>
     
     <script src="../script/script.js"></script>
+    <?php
+require_once "../db_Connection.php";
+
+$query1 = "SELECT * FROM habitat WHERE habitat_id = 6; ";
+$stmt1 = $pdo->prepare($query1);
+$stmt1->execute();
+$rainforest = $stmt1->fetch(PDO::FETCH_ASSOC);
+
+$query2 = "SELECT * FROM habitat WHERE habitat_id = 7; ";
+$stmt2 = $pdo->prepare($query2);
+$stmt2->execute();
+$africain = $stmt2->fetch(PDO::FETCH_ASSOC);
+
+$query3 = "SELECT * FROM habitat WHERE habitat_id = 8; ";
+$stmt3 = $pdo->prepare($query3);
+$stmt3->execute();
+$australien = $stmt3->fetch(PDO::FETCH_ASSOC);
+
+$query4 = "SELECT * FROM habitat WHERE habitat_id = 9; ";
+$stmt4 = $pdo->prepare($query4);
+$stmt4->execute();
+$reptiles = $stmt4->fetch(PDO::FETCH_ASSOC);
+?>
     
 </body>
 </html>
