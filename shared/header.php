@@ -2,11 +2,11 @@
     <a href="../index.php"><p>Arcadia</p></a>
         <nav class="nav">
           <ul class="nav-list">
-              <li class="nav-list-item"><a href="/ZooArcadia/pages/animaux.php">Animaux</a></li>
-              <li class="nav-list-item"><a href="/ZooArcadia/pages/services.php">Services</a></li>
-              <li class="nav-list-item"><a href="/ZooArcadia/pages/habitat.php">Habitats</a></li>
-              <li class="nav-list-item"><a href="/ZooArcadia/pages/login.php">Connexion</a></li>
-              <li class="nav-list-item"><a href="/ZooArcadia/pages/contact.php">Contact</a></li>
+              <li class="nav-list-item"><a href="../pages/animaux.php">Animaux</a></li>
+              <li class="nav-list-item"><a href="../pages/services.php">Services</a></li>
+              <li class="nav-list-item"><a href="../pages/habitat.php">Habitats</a></li>
+              <li class="nav-list-item"><a href="../pages/login.php">Connexion</a></li>
+              <li class="nav-list-item"><a href="../pages/contact.php">Contact</a></li>
           </ul>
         </nav>
     <svg class="menu-icon" width="30" height="30" viewBox="0 0 21 24" fill="none" xmlns="http://www.w3.org/2000/svg">
