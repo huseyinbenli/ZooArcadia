@@ -1,0 +1,140 @@
+@import "./base.css";
+
+
+/* header ===> */
+.header-img {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+}
+
+/* <=== header  */
+
+
+/* info-section ===> */
+
+.info-section {
+    margin-bottom: 75px;
+    background-color: var(--color-main-background);
+    font-family: var(--font-family);
+    color: white;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    height: 330px;
+    box-shadow: 1rem 1rem 1rem 1rem var(--color-light-background);
+    border-radius: 5px;
+}
+
+.info-section > h1 {
+    max-width: 600px;
+    text-align: center;
+}
+
+.info-section > p {
+    max-width: 600px;
+    text-align: center;
+}
+/* <=== info-section  */
+
+
+/* animaux layout ===> */
+
+.main-layout-animaux {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.wrapper-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+.animaux-header {
+    margin: 75px 75px;
+    text-transform: uppercase;
+    color: var(--color-dark-background);
+    font-family: var(--font-family);
+    text-align: center;
+    border-bottom: 1px solid var(--color-dark-background);
+}
+
+.animaux-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 75px;
+    list-style: none;
+    padding: 0;
+}
+
+.animal {
+    width: 350px;
+    height: 300px;
+    background-color: var(--color-light-background);
+    box-shadow: 1rem 1rem 1rem 1rem lightgray;
+    border-radius: 5px;
+    margin-bottom: 75px;    
+}
+
+.animal:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+img {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 5px 5px 0 0;
+}
+
+.text-block {
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: var(--font-family);
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+/* <=== animaux-layout  *
+
+
+/* responsive ===> */
+
+@media (max-width:1300px){
+    .animaux-wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 50px;
+    }
+    .animal {
+        width: 300px;
+        height: 250px;
+    }
+}
+
+@media (max-width:800px){
+    .animaux-wrapper {
+        display: grid;
+        grid-template-columns: 1fr; 
+    }
+
+    .animal{
+        width: 250px;
+        height: 200px;
+    }
+
+    .info-section{
+        font-size: 14px;
+    }
+
+}
