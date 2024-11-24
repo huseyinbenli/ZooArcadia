@@ -3,7 +3,7 @@
 require "db_Connection.php";
 
 try {
-    $pdo = new PDO($mysqlDsn, $username, $password);
+    $pdo = new PDO("mysql:host=$hostname;dbname=$database", $username, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     // Récupérer les données du formulaire de connexion
