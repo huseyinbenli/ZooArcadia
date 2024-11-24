@@ -23,7 +23,7 @@ require "db_Connection.php";
 
     <?php
     try{
-        $pdo = new PDO($mysqlDsn, $username, $password);
+        $pdo = new PDO("mysql:host=$hostname;dbname=$database", $username, $password);
         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     
         // Récupérer l'utilisateur par son username

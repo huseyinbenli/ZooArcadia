@@ -25,7 +25,7 @@ require "db_Connection.php";
 
 
 try{
-    $pdo = new PDO($mysqlDsn, $username, $password);
+    $pdo = new PDO("mysql:host=$hostname;dbname=$database", $username, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     $query = "SELECT name, description FROM service;";
@@ -64,7 +64,7 @@ try{
 
 
 try{
-    $pdo = new PDO($mysqlDsn, $username, $password);
+    $pdo = new PDO("mysql:host=$hostname;dbname=$database", $username, $password);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     $query = "SELECT name, description FROM habitat;";
