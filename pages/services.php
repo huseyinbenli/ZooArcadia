@@ -1,29 +1,3 @@
-<?php
-require_once "../db_Connection.php";
-
-$query1 = "SELECT * FROM service WHERE service_id = 7; ";
-$stmt1 = $pdo->prepare($query1);
-$stmt1->execute();
-$result1 = $stmt1->fetch(PDO::FETCH_ASSOC);
-?>
-
-<?php
-$query2 = "SELECT * FROM service WHERE service_id = 8; ";
-$stmt2 = $pdo->prepare($query2);
-$stmt2->execute();
-$result2 = $stmt2->fetch(PDO::FETCH_ASSOC);
-?>
-
-<?php
-$query3 = "SELECT * FROM service WHERE service_id = 9; ";
-$stmt3 = $pdo->prepare($query3);
-$stmt3->execute();
-$result3 = $stmt3->fetch(PDO::FETCH_ASSOC);
-?>
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,6 +22,28 @@ $result3 = $stmt3->fetch(PDO::FETCH_ASSOC);
         <div class="main-layout">
 
         <h1 class="h1">nos services</h1>
+        <?php
+require_once "../db_Connection.php";
+
+$query1 = "SELECT * FROM service WHERE service_id = 7; ";
+$stmt1 = $pdo->prepare($query1);
+$stmt1->execute();
+$result1 = $stmt1->fetch(PDO::FETCH_ASSOC);
+?>
+
+<?php
+$query2 = "SELECT * FROM service WHERE service_id = 8; ";
+$stmt2 = $pdo->prepare($query2);
+$stmt2->execute();
+$result2 = $stmt2->fetch(PDO::FETCH_ASSOC);
+?>
+
+<?php
+$query3 = "SELECT * FROM service WHERE service_id = 9; ";
+$stmt3 = $pdo->prepare($query3);
+$stmt3->execute();
+$result3 = $stmt3->fetch(PDO::FETCH_ASSOC);
+?>
 
         <section class="guide-section">
             <div class="guide-div">
