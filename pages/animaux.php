@@ -36,19 +36,20 @@
         <div class="wrapper-div">
             <div class="child-div">
             <ul class="animaux-wrapper"> 
-                <li class="animal"> <img src="../Animal Images/Animaux/Alligator_American.jpg" alt=""><div class="text-block"> Alligator - American </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/green-anaconda.jpg" alt=""><div class="text-block"> Anaconda - Vert </div> </li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Boa-Constrictor.jpg" alt=""> <div class="text-block"> Boa - Constrictor </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Animals-Brolga.jpg" alt=""> <div class="text-block"> Brolga </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Cassowary2.jpg" alt=""> <div class="text-block"> Casoar </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Cheetah2.jpg" alt=""> <div class="text-block"> Guépard</div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Sulpher-Crested-Cockatoo600x300.jpg" alt=""> <div class="text-block"> Cacatoés  </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Great_Cormorant600x300.jpg" alt=""> <div class="text-block"> Grand Carmoran </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Crocodile_Freshwater600x300.jpg" alt=""> <div class="text-block"> Carmoran Pie </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Crocodile-Saltwater2.jpg" alt=""> <div class="text-block"> Crocodile de Johnston </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Curlew-Bush_Stone2.jpg" alt=""> <div class="text-block"> Crocodile Marin </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dingo2.jpg" alt=""> <div class="text-block">Œdicnème Bridé</div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Bar_Shouldered2.jpg" alt=""> <div class="text-block"> Dingo </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Alligator_American.jpg" alt="Alligator American"><div class="text-block"> Alligator - American </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/green-anaconda.jpg" alt="Green anaconda"><div class="text-block"> Anaconda - Vert </div> </li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Boa-Constrictor.jpg" alt="Boa Constrictor"> <div class="text-block"> Boa - Constrictor </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Animals-Brolga.jpg" alt="Brolga"> <div class="text-block"> Brolga </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Cassowary2.jpg" alt="Cassowary"> <div class="text-block"> Casoar </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Cheetah2.jpg" alt="Cheetah"> <div class="text-block"> Guépard</div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Sulpher-Crested-Cockatoo600x300.jpg" alt="Sulpher Crested Cockatoo"> <div class="text-block"> Cacatoés  </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Great_Cormorant600x300.jpg" alt="Great Cormorant"> <div class="text-block"> Grand Carmoran </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Cormorant-Little_Pied2.jpg" alt="Great Cormorant"> <div class="text-block"> Carmoran Pie </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Crocodile_Freshwater600x300.jpg" alt="Freshwater Crocodile"> <div class="text-block"> Crocodile de Johnston </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Crocodile-Saltwater2.jpg" alt="Saltwater Crocodile"> <div class="text-block"> Crocodile Marin </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Curlew-Bush_Stone2.jpg" alt=""> <div class="text-block"> Œdicnème Bridé </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dingo2.jpg" alt=""> <div class="text-block"> Dingo</div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Bar_Shouldered2.jpg" alt=""> <div class="text-block"> Géopélie à nuque rousse </div></li>
                 <li class="animal"> <img src="../Animal Images/Animaux/Dove-Emerald2.jpg" alt=""> <div class="text-block"> colombine turvert </div></li>
                 <li class="animal"> <img src="../Animal Images/Animaux/Dove-Rose_Crowned_Fruit2.jpg" alt=""> <div class="text-block"> philope à diadème </div></li>
                 <li class="animal"> <img src="../Animal Images/Animaux/Dragon-Bearded600x300.jpg" alt=""> <div class="text-block"> Pogona </div></li>

@@ -31,7 +31,7 @@
                     <img class="carousel-image" src="./Animal Images/Rhino.jpg" alt="A white Rhino">
                 </li>
                 <li class="slide">
-                    <img class="carousel-image" src="./Animal Images/Cheetah.jpg" alt="A white Rhino">
+                    <img class="carousel-image" src="./Animal Images/Cheetah.jpg" alt="Cheetah">
                 </li>
             </ul>
 
@@ -59,7 +59,7 @@
             <button class="mini-slide-arrow" id="mini-slide-arrow-next">&#8250;</button>
             <ul class="mini-slides-container-habitats" id="mini-slides-container-habitats">
                 <li class="mini-slide-habitat">
-                    <img class="habitat-img" src="./Animal Images/africa.jpg" alt="Cheetah">
+                    <img class="habitat-img" src="./Animal Images/africa.jpg" alt="Meerkat and some rhinos on background">
                     <h2>africain safari parc</h2>
                     <p class="slide-p">Couvrant 4,5 hectares, la biozone Afrique est la plus étendue du parc.
                         Elle abrite de grands mammifères tels que des rhinocéros blancs (Ceratotherium simum),
@@ -67,7 +67,7 @@
                     </p>
                 </li>
                 <li class="mini-slide-habitat">
-                    <img class="habitat-img" src="./Animal Images/Kangaroo.jpg" alt="Crocodile">
+                    <img class="habitat-img" src="./Animal Images/Kangaroo.jpg" alt="Few kangaroos">
                     <h2>bush australien</h2>
                     <p class="slide-p">Vivez une aventure australienne dans la brousse sauvage de l'Australie.
                         Voici quelques exemples de koalas du sud, de quokkas et de potoroos à long nez, d'émeus,
@@ -76,7 +76,7 @@
                    </p>
                 </li>
                 <li class="mini-slide-habitat">
-                    <img class="habitat-img" src="./Animal Images/bird.jpg" alt="Dingo">
+                    <img class="habitat-img" src="./Animal Images/bird.jpg" alt="Colorful bird">
                     <h2>rainforest aviary</h2>
                     <p class="slide-p">Abritant de nombreux animaux à plumes du zoo d'Arcadia,
                         le jardin des oiseaux offre un havre de paix et de verdure à plus de 170 oiseaux
@@ -86,7 +86,7 @@
                    </p>
                 </li>
                 <li class="mini-slide-habitat">
-                    <img class="habitat-img dragon" src="./Animal Images/Wildlife-Our-Animals-Dragon-Bearded600x300.jpg" alt="Dingo">
+                    <img class="habitat-img dragon" src="./Animal Images/Wildlife-Our-Animals-Dragon-Bearded600x300.jpg" alt="bearded dragon reptile">
                     <h2>village de reptile</h2>
                     <p class="slide-p">Cet espace dédié aux serpents et lézards a été créé en 2011.
                         Le village des reptiles regroupe des pythons royaux, des pythons molures,
@@ -152,7 +152,7 @@
          <div class="wrapper-service">
             <div class="services" id="services">
                 <div class="services-div">
-                    <img class="services-img" src="./Animal Images/Restaurant.jpg" alt="Cheetah">
+                    <img class="services-img" src="./Animal Images/Restaurant.jpg" alt="Restaurant image">
                     <h2>Restauration</h2>
                     <p class="slide-p">Nos restaurants, situés dans tout le zoo d'Arcadia,
                     satisfont une grande variété de goûts et offrent un menu complet de plats et 
