@@ -17,7 +17,7 @@
 
 
         <div class="header-div">
-            <img class="header-img" src="../Animal Images/butterfly.jpg" alt="">
+            <img class="header-img" src="../Animal Images/butterfly.jpg" alt="a butterfly">
         </div>
     </header>
 

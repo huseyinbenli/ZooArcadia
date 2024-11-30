@@ -16,7 +16,7 @@
         <?php require_once('../shared/header.php'); ?>
 
         <div class="header-div">
-            <img class="header-img" src="../Animal Images/forest.jpg" alt="">
+            <img class="header-img" src="../Animal Images/forest.jpg" alt="some animals in the forest">
         </div>
 
     </header>

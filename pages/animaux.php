@@ -47,71 +47,71 @@
                 <li class="animal"> <img src="../Animal Images/Animaux/Cormorant-Little_Pied2.jpg" alt="Great Cormorant"> <div class="text-block"> Carmoran Pie </div></li>
                 <li class="animal"> <img src="../Animal Images/Animaux/Crocodile_Freshwater600x300.jpg" alt="Freshwater Crocodile"> <div class="text-block"> Crocodile de Johnston </div></li>
                 <li class="animal"> <img src="../Animal Images/Animaux/Crocodile-Saltwater2.jpg" alt="Saltwater Crocodile"> <div class="text-block"> Crocodile Marin </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Curlew-Bush_Stone2.jpg" alt=""> <div class="text-block"> Œdicnème Bridé </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dingo2.jpg" alt=""> <div class="text-block"> Dingo</div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Bar_Shouldered2.jpg" alt=""> <div class="text-block"> Géopélie à nuque rousse </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Emerald2.jpg" alt=""> <div class="text-block"> colombine turvert </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Rose_Crowned_Fruit2.jpg" alt=""> <div class="text-block"> philope à diadème </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dragon-Bearded600x300.jpg" alt=""> <div class="text-block"> Pogona </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Dragon-Komodo2-1.jpg" alt=""> <div class="text-block"> Dragon de Komodo </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Duck-Burdekin2.jpg" alt=""> <div class="text-block"> Tadorne radjah </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Eagle-Wedged_Tailed2.jpg" alt=""> <div class="text-block"> Aigle d'Australie </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Echidna600x300.jpg" alt=""> <div class="text-block"> Échidné à nez court </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/NewElephants_AustraliaZoo_mb.jpg" alt=""> <div class="text-block"> Éléphant de Sumatra </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Emu2-1.jpg" alt=""> <div class="text-block"> Émeu d'Australie </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Finch-Chestnut_Brested_Mannikin2.jpg" alt=""> <div class="text-block"> Capucin donacole </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Gila_Monster11.jpg" alt=""> <div class="text-block"> Monstre de Gila </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Giraffe2.jpg" alt=""> <div class="text-block"> Girafe </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Guineafowl600x300.jpg" alt=""> <div class="text-block"> Pintade de Numidie </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Ibis-Glossy2.jpg" alt=""> <div class="text-block"> Ibis falcinelle </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Iguana-Fijian_Crested2.jpg" alt=""> <div class="text-block"> Brachylophus vitiensis </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Iguana-Rhinoceros2.jpg" alt=""> <div class="text-block"> Cyclura cornuta </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Kangaroo-Eastern_Grey2.jpg" alt=""> <div class="text-block"> Kangourou géant </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Kangaroo-Red2.jpg" alt=""> <div class="text-block"> Kangourou roux </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Kite-Brahminy2.jpg" alt=""> <div class="text-block"> Milan sacré </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Koala2.jpg" alt=""> <div class="text-block"> Koala </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Lemur-Ring_Tailed2-1.jpg" alt=""> <div class="text-block"> Lémur catta </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Lorikeet-Rainbow2.jpg" alt=""> <div class="text-block"> Loriquet arc-en-ciel </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Lorikeet-Red_Collared2.jpg" alt=""> <div class="text-block"> Loriquet à col rouge </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Macaw-Blue_and_Gold2-1.jpg" alt=""> <div class="text-block"> Ara bleu </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Macaw-Green-winged600x300.jpg" alt=""> <div class="text-block"> Ara chloroptère </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Meerkat2.jpg" alt=""> <div class="text-block"> Suricate </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Otter-Asian_Small_Claw2.jpg" alt=""> <div class="text-block"> Loutre cendrée </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Owl-Barking2.jpg" alt=""> <div class="text-block"> Ninoxe aboyeuse </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Parrot-Eclectus2.jpg" alt=""> <div class="text-block"> Eclectus </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Pigeon-Torres_Strait_Island2.jpg" alt=""> <div class="text-block"> Carpophage argenté </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Pigeon-White_Headed2.jpg" alt=""> <div class="text-block"> Pigeon leucomèle </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Pigeon-Wonga2.jpg" alt=""> <div class="text-block"> Colombine wonga </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Pitta-Noisy2.jpg" alt=""> <div class="text-block"> Brève versicolore </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Python-Blackhead2.jpg" alt=""> <div class="text-block"> Python à tête noire </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Boa-Constrictor2.jpg" alt=""> <div class="text-block"> Python birman </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Python-Diamond600x300.jpg" alt=""> <div class="text-block"> Python tapis </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Python-Scrub2.jpg" alt=""> <div class="text-block"> Simalia kinghorni </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Python-Water600x300.jpg" alt=""> <div class="text-block"> Python d'eau </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Python-Woma2-1.jpg" alt=""> <div class="text-block"> Python de Woma </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/quokka.jpg" alt=""> <div class="text-block"> Quokka </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Red_Panda2.jpg" alt=""> <div class="text-block"> Panda roux </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Rhinoceros_Southern-White600x300.jpg" alt=""> <div class="text-block"> Rhinocéros blanc du Sud </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Skink-Cunninghan11.jpg" alt=""> <div class="text-block"> Egernia cunninghami </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Taipan.jpg" alt=""> <div class="text-block"> Taïpan côtier </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Corn2.jpg" alt=""> <div class="text-block"> Serpent des blés </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Death_Adder2.jpg" alt=""> <div class="text-block"> Vipère de la mort </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Eastern_Diamondback_Rattlesnake2-1.jpg" alt=""> <div class="text-block"> Crotale diamantin </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Taipan.jpg" alt=""> <div class="text-block"> Taïpan du désert </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Snake-King_Brown_or_Mulga2.jpg" alt=""> <div class="text-block"> Serpent de la Mulga </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Snake-King_Cobra2-1.jpg" alt=""> <div class="text-block"> Cobra royal </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/red-bellied-black-snake.jpg" alt=""> <div class="text-block"> Serpent noir à ventre rouge </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Stork-Black_Necked2.jpg" alt=""> <div class="text-block"> jabiru asiatique </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Tasmanian_Devil2.jpg" alt=""> <div class="text-block"> Diable de Tasmanie </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Tiger-Sumatran2.jpg" alt=""> <div class="text-block"> Tigre de Sumatra </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Eastern_Tiger2.jpg" alt=""> <div class="text-block"> Serpent-tigre </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Tortoise-Aldabra2.jpg" alt=""> <div class="text-block"> Tortue étoilée </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Irwin-Turtle.jpg" alt=""> <div class="text-block"> Elseya irwini </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Wallaby-Red_Necked2.jpg" alt=""> <div class="text-block"> Wallaby à cou rouge </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Swamp-WallabyAZ.jpg" alt=""> <div class="text-block"> Wallaby bicolore </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Wombat-Common2.jpg" alt=""> <div class="text-block"> Wombat commun </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Wombat-Southern-Hairy-Nosed600x300.jpg" alt=""> <div class="text-block"> Wombat à nez poilu du Sud </div></li>
-                <li class="animal"> <img src="../Animal Images/Animaux/Zebra600x300.jpg" alt=""> <div class="text-block"> Zèbre </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Curlew-Bush_Stone2.jpg" alt="Curlew bush stone"> <div class="text-block"> Œdicnème Bridé </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dingo2.jpg" alt="Dingo"> <div class="text-block"> Dingo</div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Bar_Shouldered2.jpg" alt="Dove"> <div class="text-block"> Géopélie à nuque rousse </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Emerald2.jpg" alt="Emerald dove"> <div class="text-block"> colombine turvert </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dove-Rose_Crowned_Fruit2.jpg" alt="Rose Dove"> <div class="text-block"> philope à diadème </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dragon-Bearded600x300.jpg" alt="Bearded komodo dragon"> <div class="text-block"> Pogona </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Dragon-Komodo2-1.jpg" alt="Komodo dragon"> <div class="text-block"> Dragon de Komodo </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Duck-Burdekin2.jpg" alt="Duck"> <div class="text-block"> Tadorne radjah </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Eagle-Wedged_Tailed2.jpg" alt="Eagle"> <div class="text-block"> Aigle d'Australie </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Echidna600x300.jpg" alt="Echidna"> <div class="text-block"> Échidné à nez court </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/NewElephants_AustraliaZoo_mb.jpg" alt="Elephants"> <div class="text-block"> Éléphant de Sumatra </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Emu2-1.jpg" alt="Emu"> <div class="text-block"> Émeu d'Australie </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Finch-Chestnut_Brested_Mannikin2.jpg" alt="Chestnut finch"> <div class="text-block"> Capucin donacole </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Gila_Monster11.jpg" alt="Gila monster"> <div class="text-block"> Monstre de Gila </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Giraffe2.jpg" alt="Giraffe"> <div class="text-block"> Girafe </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Guineafowl600x300.jpg" alt="Guniea"> <div class="text-block"> Pintade de Numidie </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Ibis-Glossy2.jpg" alt="Glossy ibis"> <div class="text-block"> Ibis falcinelle </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Iguana-Fijian_Crested2.jpg" alt="Iguana"> <div class="text-block"> Brachylophus vitiensis </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Iguana-Rhinoceros2.jpg" alt="Rinoceros"> <div class="text-block"> Cyclura cornuta </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Kangaroo-Eastern_Grey2.jpg" alt="Eastern grey kangaroo"> <div class="text-block"> Kangourou géant </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Kangaroo-Red2.jpg" alt="Red kangaroo"> <div class="text-block"> Kangourou roux </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Kite-Brahminy2.jpg" alt="Brahminy kite"> <div class="text-block"> Milan sacré </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Koala2.jpg" alt="Koala"> <div class="text-block"> Koala </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Lemur-Ring_Tailed2-1.jpg" alt="Ring tailed lemur"> <div class="text-block"> Lémur catta </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Lorikeet-Rainbow2.jpg" alt="Rainbow lorikeet"> <div class="text-block"> Loriquet arc-en-ciel </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Lorikeet-Red_Collared2.jpg" alt="Red collared lorikeet"> <div class="text-block"> Loriquet à col rouge </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Macaw-Blue_and_Gold2-1.jpg" alt="Blue and gold macaw"> <div class="text-block"> Ara bleu </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Macaw-Green-winged600x300.jpg" alt="Green winged macaw"> <div class="text-block"> Ara chloroptère </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Meerkat2.jpg" alt="meerkat"> <div class="text-block"> Suricate </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Otter-Asian_Small_Claw2.jpg" alt="Asian small otter"> <div class="text-block"> Loutre cendrée </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Owl-Barking2.jpg" alt="Barking owl"> <div class="text-block"> Ninoxe aboyeuse </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Parrot-Eclectus2.jpg" alt="Parrot Eclectus"> <div class="text-block"> Eclectus </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Pigeon-Torres_Strait_Island2.jpg" alt="Pigeon"> <div class="text-block"> Carpophage argenté </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Pigeon-White_Headed2.jpg" alt="White headed pigeon"> <div class="text-block"> Pigeon leucomèle </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Pigeon-Wonga2.jpg" alt="Wonga pigeon"> <div class="text-block"> Colombine wonga </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Pitta-Noisy2.jpg" alt="noisy pitta"> <div class="text-block"> Brève versicolore </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Python-Blackhead2.jpg" alt="blackhead python"> <div class="text-block"> Python à tête noire </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Boa-Constrictor2.jpg" alt="Boa constrictor"> <div class="text-block"> Python birman </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Python-Diamond600x300.jpg" alt="Diamond python"> <div class="text-block"> Python tapis </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Python-Scrub2.jpg" alt="Scrub python"> <div class="text-block"> Simalia kinghorni </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Python-Water600x300.jpg" alt="water python"> <div class="text-block"> Python d'eau </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Python-Woma2-1.jpg" alt="woma python"> <div class="text-block"> Python de Woma </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/quokka.jpg" alt="quokka"> <div class="text-block"> Quokka </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Red_Panda2.jpg" alt="red panda"> <div class="text-block"> Panda roux </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Rhinoceros_Southern-White600x300.jpg" alt="Southern Rhino"> <div class="text-block"> Rhinocéros blanc du Sud </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Skink-Cunninghan11.jpg" alt="Coastal taipan"> <div class="text-block"> Egernia cunninghami </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Taipan.jpg" alt="Taipan"> <div class="text-block"> Taïpan côtier </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Corn2.jpg" alt="Corn snake"> <div class="text-block"> Serpent des blés </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Death_Adder2.jpg" alt="Death adder snake"> <div class="text-block"> Vipère de la mort </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Eastern_Diamondback_Rattlesnake2-1.jpg" alt="eastern diamondback rattlesnake"> <div class="text-block"> Crotale diamantin </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Taipan.jpg" alt="Desert taipan"> <div class="text-block"> Taïpan du désert </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Snake-King_Brown_or_Mulga2.jpg" alt="King brown snake"> <div class="text-block"> Serpent de la Mulga </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Snake-King_Cobra2-1.jpg" alt="King kobra"> <div class="text-block"> Cobra royal </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/red-bellied-black-snake.jpg" alt="Red bellied black snake"> <div class="text-block"> Serpent noir à ventre rouge </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Stork-Black_Necked2.jpg" alt="black-neck stork"> <div class="text-block"> jabiru asiatique </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Tasmanian_Devil2.jpg" alt="tasmanian devil"> <div class="text-block"> Diable de Tasmanie </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Tiger-Sumatran2.jpg" alt="Sumatran tiger"> <div class="text-block"> Tigre de Sumatra </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Snake-Eastern_Tiger2.jpg" alt="eastern tiger snake"> <div class="text-block"> Serpent-tigre </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Tortoise-Aldabra2.jpg" alt="Aldabra tortoise"> <div class="text-block"> Tortue étoilée </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Irwin-Turtle.jpg" alt="Irwin turtle"> <div class="text-block"> Elseya irwini </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Wallaby-Red_Necked2.jpg" alt="Red necked wallaby"> <div class="text-block"> Wallaby à cou rouge </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Swamp-WallabyAZ.jpg" alt="Swamp wallaby"> <div class="text-block"> Wallaby bicolore </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Wombat-Common2.jpg" alt="Common wombat"> <div class="text-block"> Wombat commun </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Wombat-Southern-Hairy-Nosed600x300.jpg" alt="Hairy nosed wombat"> <div class="text-block"> Wombat à nez poilu du Sud </div></li>
+                <li class="animal"> <img src="../Animal Images/Animaux/Zebra600x300.jpg" alt="Zebra"> <div class="text-block"> Zèbre </div></li>
             </ul>
             </div>
         </div>

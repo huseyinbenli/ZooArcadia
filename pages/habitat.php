@@ -17,7 +17,7 @@
             <?php require_once('../shared/header.php'); ?>
 
             <div class="header-div">
-            <img class="header-img" src="../Animal Images/twoCheetas.jpg" alt="">
+            <img class="header-img" src="../Animal Images/twoCheetas.jpg" alt="two cheetas, one is laying down while other walks by">
         </div>
     </header>
 
@@ -37,7 +37,7 @@
 
         <section class="section africain">
             <div class="wrapper-div">
-                <img src="../Animal Images/africa.jpg" alt="">
+                <img src="../Animal Images/africa.jpg" alt="Meerkat and some rhinos on background">
                 <h2> <?php echo $africain['name']; ?> </h2>
                 <p> <?php echo $africain['description']; ?> </p>
             </div>
@@ -45,7 +45,7 @@
 
         <section class="section australien">
             <div class="wrapper-div">
-                <img src="../Animal Images/Kangaroo.jpg" alt="">
+                <img src="../Animal Images/Kangaroo.jpg" alt="few kangaroos side biy side">
                 <h2> <?php echo $australien['name']; ?> </h2>
                 <p> <?php echo $australien['description']; ?> </p>
             </div>
@@ -53,7 +53,7 @@
 
         <section class="section rainforest">
             <div class="wrapper-div">
-                <img src="../Animal Images/bird.jpg" alt="">
+                <img src="../Animal Images/bird.jpg" alt="colorful bird">
                 <h2> <?php echo $rainforest['name']; ?> </h2>
                 <p> <?php echo $rainforest['description']; ?> </p>
             </div>
@@ -61,7 +61,7 @@
 
         <section class="section resptiles">
             <div class="wrapper-div">
-                <img src="../Animal Images/Dragon-Komodo2-1.jpg" alt="">
+                <img src="../Animal Images/Dragon-Komodo2-1.jpg" alt="a komodo dragon on a branch">
                 <h2> <?php echo $reptiles['name']; ?> </h2>
                 <p> <?php echo $reptiles['description']; ?> </p>
             </div>
